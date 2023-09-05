@@ -1,0 +1,25 @@
+.facebook{
+    background-color: rgb(193, 139, 243);
+    font-family: monospace;
+    ;
+}
+
+.x{
+    background-color: aquamarine;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.spotify{
+    background-color: chocolate;
+    font-family: fantasy;
+}
+
+.netflix{
+    background-color: crimson;
+    font-family: sans-serif;
+}
+
+.gmail{
+    background-color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
